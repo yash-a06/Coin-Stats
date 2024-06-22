@@ -4,3 +4,5 @@
 - If we click on a currency, then we should see the details of it and it's price history based on hours, days and years.
 - Support USD and INR pricing for listing
 
+![Uploading Screenshot 2024-06-22 134042.png…]()
+![Uploading Screenshot 2024-06-22 134017.png…]()
