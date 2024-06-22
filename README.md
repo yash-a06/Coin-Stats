@@ -5,5 +5,6 @@
 - Support USD and INR pricing for listing
 
 <h1>Demo of project</h1>
-(https://github.com/yash-a06/Coin-Stats/assets/105718562/1a19926e-ddcc-4e5f-9d27-d325d1998d93)
-(https://github.com/yash-a06/Coin-Stats/assets/105718562/86617925-2f4d-49c2-aa39-fbc82d6a66f2)
+
+![Screenshot 2024-06-22 134017](https://github.com/yash-a06/Coin-Stats/assets/105718562/32ceb00b-0bf2-49fc-9769-850af0931005)
+![Screenshot 2024-06-22 134042](https://github.com/yash-a06/Coin-Stats/assets/105718562/04274fda-3867-4327-87dd-d5343904fbb2)
